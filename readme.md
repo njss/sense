@@ -1,2 +1,2 @@
-Project Sense on docker hub
+Project Sense on docker hub: 
 njssnjss/sense
